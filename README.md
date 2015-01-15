@@ -25,11 +25,11 @@ main method should play one two-player game of war and create output similar to 
 - create deck, hands and stacks
 - deal the cards
 - play the game
-  -- print out the array formatted as below:
-     --- HeaderRow: A --- player --- B
-     --- Each Round: 
-         ---- 26 ---round 1--- 26  (# of cards in player A's hand ---round # or WAR--- # of cards in player B's hand)
-         ---- player A's card : player B's card
+  - print out the array formatted as below:
+    - HeaderRow: A --- player --- B
+    - Each Round: 
+      - 26 ---round 1--- 26  (# of cards in player A's hand ---round # or WAR--- # of cards in player B's hand)
+      - player A's card : player B's card
 ```
 A --- player --- B
 26 ---round 1--- 26

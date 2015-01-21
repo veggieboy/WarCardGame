@@ -81,6 +81,5 @@ public class War {
         p2.addCardToBottom(b);
       }
     }
-    
   }
 }
